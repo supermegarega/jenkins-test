@@ -1,2 +1,2 @@
 echo 'Build from MAIN branch'
-test push
+echo 'Test trigger tag create'
